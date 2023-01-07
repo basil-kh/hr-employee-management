@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+On startup, change directories to the "client" folder, and run "yarn start"
+Also change directories to the "server" folder, and run "node index.js"
 
 ### `npm start`
 
